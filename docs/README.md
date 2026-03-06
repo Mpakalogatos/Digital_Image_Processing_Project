@@ -12,7 +12,7 @@ The application implements the following image processing techniques:
 - **Histogram Matching:** Adjusts the pixel distribution of an input image to match a reference image's profile.
 
 ## 🚀 Technologies Used
-- **Python 3.x**
+- **Python 3.10+**
 - **OpenCV (cv2):** For core image processing algorithms.
 - **NumPy:** For matrix operations and kernel definitions.
 - **Matplotlib:** For plotting histograms.
